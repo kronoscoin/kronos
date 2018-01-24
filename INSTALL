@@ -1,0 +1,9 @@
+Building Kronos
+
+See doc/readme-qt.rst for instructions on building kronos-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Kronos.
+
+See doc/build-*.txt for instructions on building kronos,
+the intended-for-services, no-graphical-interface, reference
+implementation of Kronos.
